@@ -11,5 +11,6 @@ public class TestGit {
         System.out.println("hot-fix4");
         System.out.println("success");
         System.out.println("pull");
+        System.out.println("gitee");
     }
 }
