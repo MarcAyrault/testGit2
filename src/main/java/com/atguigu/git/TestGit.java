@@ -1,4 +1,4 @@
-package com.atguigu.git;
+;package com.atguigu.git;
 
 public class TestGit {
     public static void main(String[] args) {
@@ -9,6 +9,6 @@ public class TestGit {
         System.out.println("hot-fix1");
         System.out.println("hot-realfix");
         System.out.println("hot-fix4");
-        System.out.println("success")
+        System.out.println("success");
     }
 }
