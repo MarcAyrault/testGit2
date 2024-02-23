@@ -10,5 +10,6 @@ public class TestGit {
         System.out.println("hot-realfix");
         System.out.println("hot-fix4");
         System.out.println("success");
+        System.out.pirntln("pull")
     }
 }
