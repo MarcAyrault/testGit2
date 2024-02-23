@@ -6,7 +6,8 @@ public class TestGit {
         System.out.println("version2");
         System.out.println("version3");
         System.out.println("hot-fix");
-        System.out.println("master-fix");
-        System.out.println("master-fix2");
+        System.out.println("hot-fix1");
+        System.out.println("hot-realfix");
+        System.out.println("hot-fix4");
     }
 }
