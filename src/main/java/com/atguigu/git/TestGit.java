@@ -7,5 +7,6 @@ public class TestGit {
         System.out.println("version3");
         System.out.println("hot-fix");
         System.out.println("master-fix");
+        System.out.println("master-fix2");
     }
 }
